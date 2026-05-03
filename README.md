@@ -17,7 +17,7 @@
 
 ## Know About Me
 
-<img src="https://i.pinimg.com/1200x/47/7c/90/477c907583217002e2ffe82cde28dbaa.jpg" align="left" width="150" style="margin-right: 20px;" />
+<img src="foto2.png" align="left" width="150" style="margin-right: 20px;" />
 
 **Information Systems Student at CIN-UFPE**
 
@@ -61,7 +61,6 @@ I also have experience with **Python, HTML, CSS, and Git**, and i'm currently ex
 </p>
 
 ---
-
 
 
    
