@@ -17,7 +17,7 @@
 
 ## Know About Me
 
-<img src="foto2.png" align="left" width="150" style="margin-right: 20px;" />
+<img src="foto2.png" align="left" width="160" style="margin-right: 20px;" />
 
 **Information Systems Student at CIN-UFPE**
 
@@ -61,6 +61,15 @@ I also have experience with **Python, HTML, CSS, and Git**, and i'm currently ex
 </p>
 
 ---
+<div align="center">
+  
+  ![snake gif](https://github.com/jaikarla/jaikarla/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<p align="center"><em>"You should enjoy the little detours. Because that’s where you’ll find the things more important than what you want."</em></p>
 
 
    
