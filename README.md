@@ -21,7 +21,7 @@
 
 **Information Systems Student at CIN-UFPE**
 
-> "*Komugi.. are you still there?*"
+> "*Komugi... are you still there?*"
 
 Currently, i'm deepening my studies in **C++, JavaScript, React, and SQL**, applying this knowledge to real-world projects by developing web systems.
 
