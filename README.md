@@ -54,9 +54,6 @@ I also have experience with **Python, HTML, CSS, and Git**, and i'm currently ex
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaikarla&show_icons=true&bg_color=00000000&title_color=9379FF&text_color=a77aa7&icon_color=9379FF&hide_border=true" width="48%" />
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jaikarla&theme=transparent&hide_border=true&ring=a77aa7&fire=a77aa7&currStreakLabel=a77aa7&sideLabels=a77aa7&dates=a77aa7&sideNums=a77aa7" width="60%" />
 </p>
 
